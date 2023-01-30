@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del módulo2 del PrepCourse Henry
+Este es un ejemplo de cómo modificar un archivo desde el repositorio local y realizar commit a github
